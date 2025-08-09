@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "yimenu banteamlak",
+      "email": "yimenubata131313@gmail.com.com",
+      "phone": "0910633921",
+      "address":"Addis Abeba",
+    },
+    {
+      "id": 2,
+      "name": "abera taye",
+      "email": "aberataye@gmail.com",
+      "phone": "0910111213",
+      "address": "hawassa",
+    },
+    {
+      "id": 3,
+      "name": "teddy abel",
+      "email": "teddyabel@gmail.com",
+      "phone": "0912445566",
+      "address": "arba minch",
+    },
+    {
+      "id": 4,
+      "name": "tigest abebe",
+      "email": "tgabebe@gmail.com",
+      "phone": "0945789089",
+      "address": "nazeret",
+    },
+    {
+      "id": 5,
+      "name": "mamo berket",
+      "email": "mamoberket@gmail.com",
+      "phone": "0976768778",
+      "address": "gonder",
+    }
+  ]
+}
